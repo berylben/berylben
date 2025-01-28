@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beryl</h1>
 <h3 align="center">A passionate software Developer</h3>
 
-- 🌱 I’m currently learning **React, python, php**
+- 🌱 I’m currently learning **Flask, python and Django for cybersecurity**
 
 - 📫 How to reach me **berylben966@gmail.com**
 
